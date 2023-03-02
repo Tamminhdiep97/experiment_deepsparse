@@ -1,0 +1,4 @@
+deepsparse
+loguru
+tqdm
+onnxruntime
